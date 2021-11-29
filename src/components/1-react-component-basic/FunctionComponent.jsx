@@ -1,7 +1,7 @@
 export default function FunctionComponent(props) {
     return(
         <>
-            <div>Hello {props.text}</div>
+            <h1>Hello {props.text}</h1>
         </>
     );
 };

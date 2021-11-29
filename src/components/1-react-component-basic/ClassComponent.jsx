@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default class Binar extends React.Component {
+export default class ClassComponent extends React.Component {
   constructor(props) {
     super();
   }
